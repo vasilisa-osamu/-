@@ -1,0 +1,21 @@
+.photo
+{
+	border: 4px double black; 
+    background: #fc3;  
+    width: 20%; 
+}
+.photo2
+{
+    overflow: scroll; 
+	width: 30%;
+	background: linear-gradient(to top, #330000, #000000);
+    padding: 10px;
+    border: 5px double black;
+}
+p 
+{
+   font-family: 'Pacifico', cursive;
+   font-size: 15pt; 
+   color:#4B0082;
+   text-align:  center;
+}
